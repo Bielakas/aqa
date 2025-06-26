@@ -1,4 +1,9 @@
-# AQA — Autonomous Query Assistant
+<p align="left">
+  <img src="assets/logo.png" alt="AQA logo" width="200"/>
+</p>
+
+
+# Autonomous Query Assistant
 
 AQA is a cockpit-integrated voice intelligence system designed to operate as an autonomous assistant.
 Unlike chatbots or generic AI agents, AQA is mission-oriented, embedded, and focused on situational awareness.
