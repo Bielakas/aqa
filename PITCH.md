@@ -54,6 +54,8 @@ AQA is designed not as an assistant with personality, but as an intelligent crew
 - Extensions into maritime, ground, and rescue systems
 
 ---
+If you find this project useful or inspiring, consider [supporting development](https://coff.ee/bielakas) — every coffee fuels the next iteration of AQA.
+---
 
 ## Licensing and Status
 
